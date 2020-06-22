@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorAccent"
+    android:theme="@style/Theme.Design.Light.NoActionBar"
+    android:id="@+id/search_app_bar">
+
+
+    <EditText
+        android:id="@+id/search_box_input"
+        android:layout_width="290dp"
+        android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content"
+        android:background="@drawable/inputs"
+        android:hint="search here"
+        android:padding="10dp"
+        android:textColor="@android:color/background_dark"
+        android:textColorHint="@android:color/background_dark"
+         />
+
+    <ImageButton
+        android:id="@+id/search_people_friends_button"
+        android:layout_width="45dp"
+        android:layout_height="40dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/inputs"
+        android:padding="1dp"
+        android:src="@drawable/ic_search_black_24dp" />
+
+    
+
+</androidx.appcompat.widget.Toolbar>

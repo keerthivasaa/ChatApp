@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashScreenActivity"
+    android:background="@drawable/bg"
+    >
+
+    <ImageView
+        android:id="@+id/ss_iconn"
+        android:layout_width="1950dp"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="180dp"
+        app:srcCompat="@drawable/gold_trans"
+        android:gravity="center_horizontal"
+        tools:ignore="VectorDrawableCompat" />
+
+    <TextView
+        android:id="@+id/sstextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:autoLink="all"
+        android:layout_below="@id/ss_iconn"
+        android:text="ChatX"
+        android:layout_centerInParent="true"
+        android:layout_centerHorizontal="true"
+        android:textAlignment="center"
+        android:textSize="38sp"
+        android:textColorLink="#D4AF37"
+        android:textColor="#D4AF37"
+        android:textStyle="bold"
+        android:gravity="center_horizontal" />
+
+</RelativeLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PrivacyPolicyActivity"
+    android:background="@drawable/bg"
+    >
+
+    <ImageView
+        android:id="@+id/pp_iconn"
+        android:layout_width="250dp"
+        android:layout_height="148dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        app:srcCompat="@drawable/gold_trans"
+        tools:ignore="VectorDrawableCompat" />
+
+    <TextView
+        android:id="@+id/pptextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:autoLink="all"
+        android:layout_below="@id/pp_iconn"
+        android:text="MR.TOI built the ChatX app as a commercial app. This SERVICE is provided by MR.TOI at no cost. If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service.We will not use or share your information with anyone except as described in this Privacy Policy {more} http://www.mrtoi.com/chatx/privacypolicy.html"
+        android:layout_centerInParent="true"
+        android:layout_centerHorizontal="true"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:layout_margin="20dp"
+        android:textColorLink="#D4AF37"
+        android:textColor="#ffff"
+        android:textStyle="bold"
+        android:gravity="center_horizontal" />
+</RelativeLayout>

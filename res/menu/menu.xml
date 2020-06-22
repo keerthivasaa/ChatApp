@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/find_friends_menu"
+        android:title="Find Friends"
+        app:showAsAction="never">
+    </item>
+
+    <item
+        android:id="@+id/Settings_menu"
+        android:title="Settings"
+        app:showAsAction="never">
+    </item>
+
+    <item
+        android:id="@+id/Privacy_menu"
+        android:title="Privacy Policy"
+        app:showAsAction="never">
+    </item>
+
+    <item
+        android:id="@+id/logout_menu"
+        android:title="Logout"
+        app:showAsAction="never">
+    </item>
+
+</menu>
