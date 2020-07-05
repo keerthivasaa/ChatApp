@@ -16,3 +16,6 @@ WHY USE CHATX:
 • OFFLINE MESSAGES: Even if you turn off your phone, ChatX will save your recent messages until the next time you use the app.
 
 *Data charges may apply. Contact your provider for details.
+
+# Google PlayStore
+https://play.google.com/store/apps/details?id=com.mrtoi.chatx
