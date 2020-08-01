@@ -17,5 +17,4 @@ WHY USE CHATX:
 
 *Data charges may apply. Contact your provider for details.
 
-# Google PlayStore
-https://play.google.com/store/apps/details?id=com.mrtoi.chatx
+
