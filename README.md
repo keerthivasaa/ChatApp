@@ -1,7 +1,10 @@
 # ChatApp
+
+<img src="https://user-images.githubusercontent.com/47691119/89097006-a877e000-d3f8-11ea-9ac7-3c8527ef3ca9.jpg" width="500" height="500">
+
 ChatX Messenger is a FREE messaging app available for Android smartphones. ChatX uses your phone's Internet connection (4G/3G/2G/EDGE or Wi-Fi, as available) to let you message friends and family.
 
-WHY USE CHATX:
+# WHY USE CHATX:
 
 • NO FEES: ChatX uses your phone's Internet connection (4G/3G/2G/EDGE or Wi-Fi, as available) to let you message and friends and family, so you don't have to pay for every message. There are no subscription fees to use ChatX.
 
